@@ -69,6 +69,11 @@
             <file>Lohit-Tamil.ttf</file>
         </fileset>
     </family>
+        <family>
+            <fileset>
+                <file>Lohit-Kannada.ttf</file>
+            </fileset>
+    </family>
     <family>
         <fileset>
             <file>DroidSansFallback.ttf</file>
